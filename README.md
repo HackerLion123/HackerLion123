@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am data scientist who work in retail domain. 
 
 <!--
 **HackerLion123/HackerLion123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
