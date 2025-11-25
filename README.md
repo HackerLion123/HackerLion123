@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Bharath
+## Hey there! 👋 I'm Bharath
 
 📧 [s.bharath64@gmail.com](mailto:s.bharath64@gmail.com) | 📱 +91-9952188901 | 💼 [LinkedIn](https://linkedin.com/in/bharath-s) | 🐙 [GitHub](https://github.com/bharath-s)
 
@@ -8,7 +8,7 @@
 
 I'm a **Senior Data Scientist** at **Target** who loves turning messy data into clean insights (and occasionally turning coffee into code ☕). I specialize in **Retail Analytics**, **Time Series Forecasting**, and building **Agentic AI** systems that actually work in production.
 
-When I'm not optimizing planograms or training models, you can find me analyzing stock charts, building my dream PC rig, or re-watching *Arcane* for the 10th time.
+When I'm not optimizing planograms or training models, you can find me analyzing stock charts, building my dream PC rig, or re-watching *Silicon Valley*
 
 ---
 
@@ -47,4 +47,4 @@ When I'm not optimizing planograms or training models, you can find me analyzing
 ### 💻 LTI - Larsen & Toubro Infotech
 **Data Scientist** *(May 2021 - June 2022)*
 - Designed and integrated forecasting models (Prophet, Exponential Smoothing, ARIMA) achieving <20% MAPE
-- Developed Monte Carlo simulations for clinical trial planning, used by
+- Developed Monte Carlo simulations for clinical trial planning, used by 300+ users. 
