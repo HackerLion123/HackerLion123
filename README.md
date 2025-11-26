@@ -47,4 +47,54 @@ When I'm not optimizing planograms or training models, you can find me analyzing
 ### 💻 LTI - Larsen & Toubro Infotech
 **Data Scientist** *(May 2021 - June 2022)*
 - Designed and integrated forecasting models (Prophet, Exponential Smoothing, ARIMA) achieving <20% MAPE
-- Developed Monte Carlo simulations for clinical trial planning, used by 300+ users. 
+- Developed Monte Carlo simulations for clinical trial planning, used by 300+ users.
+
+**Product Engineer (Data Science)** *(October 2019 - May 2021)*
+- Created "what-if" regression analysis features for analytics products
+- Identified actionable insights through deep event cause analysis
+- Implemented anomaly detection in sales data using PySpark
+
+### 📊 Lymbyc
+**Data Analyst Intern** *(April 2019 - September 2019)*
+- Built scalable KPI calculation system for large customer databases using Spark
+- Managed ETL operations and developed APIs for KPI calculation and forecasting
+
+---
+
+## 💡 Key Achievements
+
+⭐ **$10M Annual Savings** - Labor forecasting with 85% accuracy
+
+⭐ **$5M Benefit** - Demand-driven backfill optimization
+
+⭐ **$3M Expected Sales Increase** - Stock adjustment prediction with 80% precision
+
+⭐ **300+ Users** - Monte Carlo simulation tool for clinical trials
+
+⭐ **<20% MAPE** - Integrated forecasting engine
+
+⭐ **GenAI Solutions** - Customer insights and product quality automation
+
+---
+
+## 🎓 Education
+
+📜 **Master of Technology (MTech) in Data Science and Engineering**
+Birla Institute of Technology and Science, Pilani *(2022 - 2024)*
+
+🎓 **Bachelor's Degree in Computer Science**
+Mepco Schlenk Engineering College *(2015 - 2019)*
+
+---
+
+## 📊 Quick Stats
+
+🔹 **4+ years** in Retail Domain expertise across store operations, supply chain, and merchandising
+
+🔹 **6+ years** combined professional experience from intern to Senior Data Scientist
+
+🔹 **Multiple domains:** Retail, Clinical Trials, Analytics Products
+
+---
+
+*Feel free to reach out to discuss Data Science, Stock Markets, or why Jinx deserves better. Let's build something cool together!* 🚀
