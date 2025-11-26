@@ -77,6 +77,13 @@ When I'm not optimizing planograms or training models, you can find me analyzing
 
 ---
 
+## 🕹️ Side Quests
+
+
+
+
+---
+
 ## 🎓 Education
 
 📜 **Master of Technology (MTech) in Data Science and Engineering**
