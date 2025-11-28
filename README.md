@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Data Scientist** at **Target** who loves turning messy data into clean insights (and occasionally turning coffee into code ☕). I specialize in **Retail Analytics**, **Time Series Forecasting**, and building **Agentic AI** systems that actually work in production.
+I'm a **Senior Data Scientist** at **Target** who loves turning messy data into clean insights (and occasionally turning coffee into code ☕). I specialize in **Retail Analytics**, **Time Series Forecasting**, and building **ML solutions** that actually work in production.
 
 When I'm not optimizing planograms or training models, you can find me analyzing stock charts, building my dream PC rig, or re-watching *Silicon Valley*
 
