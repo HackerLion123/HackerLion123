@@ -16,11 +16,13 @@ When I'm not optimizing planograms or training models, you can find me analyzing
 
 **Languages:** Python, SQL
 
-**Forecasting:** Prophet, SARIMAX, Exponential Smoothing
+**Forecasting:** Prophet, SARIMAX, Exponential Smoothing, NHITS, LSTM, GAMs. 
 
-**Modeling & AI:** Boosting, SVM, Generative AI, Clustering, Computer Vision, NLP
+**Modeling & AI:** xgboost, svm, hdbscan, k_means, ViT, BERT, SAM, transformers.
 
 **ML Engineering:** Docker, Git, MLflow, PySpark, Software Design
+
+**GEN AI:** langchain, langgraph, adk, langfuse,  
 
 **Cloud & CI/CD:** AWS, GCP, Jenkins, Github Actions
 
