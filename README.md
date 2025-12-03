@@ -22,11 +22,11 @@ When I'm not optimizing planograms or training models, you can find me analyzing
 
 **ML Engineering:** Docker, Git, MLflow, PySpark, Software Design
 
-**GEN AI:** langchain, langgraph, adk, langfuse. 
+**GEN AI:** langchain, langgraph, adk, langfuse, LORA.
 
 **Cloud & CI/CD:** AWS, GCP, Jenkins, Github Actions
 
-**Statistics:** Elasticity Modeling, Simulations, AB Testing
+**Statistics:** Elasticity Modeling, Simulations, Hypothesis Testing, Montecarlo, Casual Analysis
 
 ---
 
